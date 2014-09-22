@@ -2,6 +2,7 @@
 layout: post
 title:  "Første forsøk på å blande gamle og nye bilder fra Andenes"
 date:   2014-09-22 21:37:30
+thumbnail: /assets/001-mix.jpg
 category: historie
 tags: historie andenes gimp bildemanipulering foto historie
 ---
