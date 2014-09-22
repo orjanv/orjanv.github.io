@@ -9,8 +9,8 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-	<img src="{{ post.thumbnail }}"  style:"clip: rect(0px,60px,200px,0px)"/>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<img src="{{ post.thumbnail }}" style:"max-height:200px; overflow: hidden"/>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
