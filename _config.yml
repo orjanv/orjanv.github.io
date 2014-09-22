@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
  og tar et bilde på nøyaktig samme sted idag, kan du legge de på hverandre
  og få en spennende effekt. En slags tidsreise. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://home.hoyd.net" # the base hostname & protocol for your site
+url: "http://orjanv.github.io" # the base hostname & protocol for your site
 twitter_username: hoyd
 github_username:  orjanv
 
