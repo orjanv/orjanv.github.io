@@ -13,7 +13,7 @@ layout: default
 	<h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-	<img src="{{ post.thumbnail }}" />
+	<img src="{{ post.thumbnail }}" width="100%" />
 	{{ post.excerpt }}
       </li>
     {% endfor %}
