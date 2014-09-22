@@ -11,8 +11,8 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-	<div style="height: 150px; width: 100%; overflow: hidden; position: relative;">
-	  <img src="{{ post.thumbnail }}" style="position: absolute; top:-20px; height: 150px; width: 100%;"/>
+	<div style="height: 150px; width: 500px; overflow: hidden;">
+	  <img src="{{ post.thumbnail }}" style="height: 150px; width: 100%;"/>
 	</div>
 	<h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
