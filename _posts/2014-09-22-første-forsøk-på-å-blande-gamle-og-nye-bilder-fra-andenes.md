@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Første forsøk på å blande gamle og nye bilder fra Andenes"
+title:  "Erna Borgens blomsterbutikk i Storgata"
 date:   2014-09-22 21:37:30
 thumbnail: /assets/001-mix.jpg
 category: historie
