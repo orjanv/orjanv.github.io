@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Me]({{ site.url }}/assets/me.jpg)
+
 I'm curious and like to know how things, life and the world around me work. 
 
 I live at Andenes, Andøya in Northern Norway, working as an Electronics Engineer and Teacher at [NAROM (Norwegian Centre for Space-related Education)](https://www.narom.no). NAROM initiates, develops, and performs educational activities, seminars and conferences at all levels of education within subject areas related to space, such as space technology, space physics, atmosphere and environment.
