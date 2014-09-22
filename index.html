@@ -10,8 +10,10 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	<img src="{{ post.thumbnail }}" style:"max-height:200px; overflow: hidden"/>
-        <h2>
+	<div class="crop">
+	  <img src="{{ post.thumbnail }}"/>
+        </div>
+	<h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 	{{ post.excerpt }}
