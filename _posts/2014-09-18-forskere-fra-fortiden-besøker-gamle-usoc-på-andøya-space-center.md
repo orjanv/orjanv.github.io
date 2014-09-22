@@ -2,7 +2,7 @@
 layout: post
 title:  "Forskere fra fortiden besøker gamle USOC på Andøya Space Center"
 date:   2014-09-18 21:37:30
-thumbnail: /assets/003-mix.jpg
+thumbnail: /assets/003-banner.jpg
 category: historie
 tags: historie andenes gimp bildemanipulering foto historie spacecenter
 ---

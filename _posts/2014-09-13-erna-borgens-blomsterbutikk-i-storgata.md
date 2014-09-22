@@ -2,7 +2,7 @@
 layout: post
 title:  "Erna Borgens blomsterbutikk i Storgata"
 date:   2014-09-13 21:37:30
-thumbnail: /assets/001-mix.jpg
+thumbnail: /assets/001-banner.jpg
 category: historie
 tags: historie andenes gimp bildemanipulering foto historie
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Andenes kirke med omtrent 80 års mellomrom"
 date:   2014-09-15 21:37:30
-thumbnail: /assets/002-mix.jpg
+thumbnail: /assets/002-banner.jpg
 category: historie
 tags: historie andenes gimp bildemanipulering foto historie
 ---
