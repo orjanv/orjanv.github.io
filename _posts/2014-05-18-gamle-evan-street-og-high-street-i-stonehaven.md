@@ -4,9 +4,9 @@ title:  "Gamle Evan Street og High Street i Stonehaven"
 date:   2014-05-18 21:37:30
 thumbnail: /assets/004-banner.jpg
 category: historie
-tags: historie andenes gimp bildemanipulering foto historie stonehaven
+tags: historie gimp bildemanipulering foto historie stonehaven
 ---
-Her kommer tre nye sammensetninger av gamle og nye bilder fra Stonehaven. Denne gangen har jeg lånt en bok på det lokale biblioteket for å finnee noen gode bilder å ta utgangspunkt i.
+Her kommer tre nye sammensetninger av gamle og nye bilder fra Stonehaven. Denne gangen har jeg lånt en bok på det lokale biblioteket for å finne noen gode bilder å ta utgangspunkt i.
 
 Det første bildet (1) viser en travel dag på Evan Street fra 1800-tallet, med torget til høyre slik det er i dag. Nå er torget parkeringsplass for mange biler på dagtid. Tidligere var det også et digert tre der, men borte idag. Til venstre på gatehjørnet, idag en optiker forretning, var fødestedet for oppfinneren Robert W. Thomson (f. 1822).
 
