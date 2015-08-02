@@ -6,9 +6,10 @@ thumbnail: /assets/gamle-boker.jpg
 category: historie
 tags: historie lukt sanser filosofi
 ---
-![](/assets/gamle-boker.jpg) 
 
 Jeg elsker å lukte i gamle bøker. En gang for flere år siden bestilte jeg en gammel brukt bok av [C. S. Lewis](http://www.goodreads.com/author/show/1069006.C_S_Lewis) fra en [antikvariat](http://antikvariat.net/), og når jeg fikk boken var det tydelig at den hadde stått i en hylle i lengre tid. Selve boken var nok enda noen år eldre og sidene var begynt å gulne. Når jeg åpnet boken, strømmer det ut en lukt av historie, en lukt som får meg til å tenke på tiden og at den er gammel. 
+
+![](/assets/gamle-boker.jpg) 
 
 Noen har [tidligere stilt spørsmålet](http://english.stackexchange.com/questions/57416/word-for-the-smell-of-old-books) om det er et ord for denne lukten av gamle bøker:
 
