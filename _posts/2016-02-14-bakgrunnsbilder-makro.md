@@ -15,41 +15,41 @@ Høyreklikk og velg lagre som.. for å laste ned bildene. Ønsker du alle sammen
 
 **Playmobilmann med skjegg**
 
-![](/assets/wallpaper-2016-001.jpg)
+![](/assets/wallpaper-2016-001.jpg "Playmobilmann med skjegg")
 
 **Gammel nøkkel med snirkler**
 
-![](/assets/wallpaper-2016-002.jpg)
+![](/assets/wallpaper-2016-002.jpg "Gammel nøkkel med snirkler")
 
 **Samme gamle nøkkel i annen vinkel**
 
-![](/assets/wallpaper-2016-003.jpg)
+![](/assets/wallpaper-2016-003.jpg "Samme gamle nøkkel i annen vinkel")
 
 **Gammel bok med en samling gudstjenester fra britisk kirke**
 
-![](/assets/wallpaper-2016-004.jpg)
+![](/assets/wallpaper-2016-004.jpg "Gammel bok med en samling gudstjenester fra britisk kirke")
 
 **Fra en side i samme bok**
 
-![](/assets/wallpaper-2016-005.jpg)
+![](/assets/wallpaper-2016-005.jpg "Fra en side i samme bok")
 
 **Fra permen på samme bok**
 
-![](/assets/wallpaper-2016-006.jpg)
+![](/assets/wallpaper-2016-006.jpg "Fra permen på samme bok")
 
 **Arkene på boken**
 
-![](/assets/wallpaper-2016-007.jpg)
+![](/assets/wallpaper-2016-007.jpg "Arkene på boken")
 
 **Ark og perm på boken**
 
-![](/assets/wallpaper-2016-008.jpg)
+![](/assets/wallpaper-2016-008.jpg "Ark og perm på boken")
 
 **Fronten av en gammel hotwheelsbil jeg hadde som liten**
 
-![](/assets/wallpaper-2016-009.jpg)
+![](/assets/wallpaper-2016-009.jpg "Fronten av en gammel hotwheelsbil jeg hadde som liten")
 
 **Bakenden av en gammel hotwheelsbil jeg hadde som liten**
 
-![](/assets/wallpaper-2016-010.jpg)
+![](/assets/wallpaper-2016-010.jpg "Bakenden av en gammel hotwheelsbil jeg hadde som liten")
 
