@@ -45,3 +45,11 @@ Høyreklikk og velg lagre som.. for å laste ned bildene. Ønsker du alle sammen
 
 ![](/assets/wallpaper-2016-008.jpg)
 
+**Fronten av en gammel hotwheelsbil jeg hadde som liten**
+
+![](/assets/wallpaper-2016-009.jpg)
+
+**Bakenden av en gammel hotwheelsbil jeg hadde som liten**
+
+![](/assets/wallpaper-2016-010.jpg)
+
