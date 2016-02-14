@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "På nært hold - en samling bakgrunnsbilder i størrelsesforhold 16:9"
+title:  "På nært hold - bakgrunnsbilder av gamle ting"
 date:   2016-02-14 09:02:54 
 thumbnail: /assets/wallpaper-2016-007.jpg
 category: foto
