@@ -7,7 +7,11 @@ category: foto
 tags: lukt gammel retro foto makro wallpaper bakgrunnsbilder
 ---
 
+Jeg er glad i å ta bilder av en rekke ting, men å få det en normalt ikke ser er ekstra spesielt.
+
 Her følger en rekke bilder jeg har tatt på nært hold av gamle fine ting. De er alle i 16:9 størrelsesforhold slik at du kan bruke de som bakgrunnsbilder på telefon og PC. 
+
+Høyreklikk og velg lagre som.. for å laste ned bildene. Ønsker du alle sammen, kan du laste ned denne [zip-filen](/assets/makro-wallpaper-2016-02.zip).
 
 **Playmobilmann med skjegg**
 
