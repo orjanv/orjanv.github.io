@@ -11,21 +11,21 @@ Jeg liker tall og språk og når jeg kommer over skjulte ikke-hensiktsmessige me
 
 ![](/assets/newyorktime-haiku.png "Haikudikt funnet i New York Times artikler")
 
-> *Snøballtallene
-Skjulte tall i tallene
-Kan du finne de?*
+For en god stund siden nå leste jeg [ett innlegg](http://www.futilitycloset.com/2014/12/28/snowball-numbers/) på en blogg jeg følger. Der tok de opp noe de kalte *snøballtall*. Snøball fordi om du ruller en snøball ned en bakke blir den jevnt større og større. 
 
-For en god stund siden nå leste jeg [et innlegg](http://www.futilitycloset.com/2014/12/28/snowball-numbers/) på en blogg jeg følger. Der tok de opp noe de kalte *snøballtall*. Det var forfriskende å lese om at noen har sett på tallord og funnet ut at noen tall inneholder en stigende fordeling av bokstaver brukt i tallordet. For eksempel det norske tallet **11**. Grunntallet skrives **elleve** og distribusjonen blir som følger 
+> *Snøballtallene. Skjulte tall i tallene. Kan du finne de?*
 
-| e | l | v |
-|:---:| :---: | :---: |
+Det var forfriskende å lese om at noen har sett på tallord og funnet ut at noen tall inneholder en stigende fordeling av bokstaver brukt i tallordet. For eksempel det norske tallet **11**. Grunntallet skrives **elleve** og distribusjonen blir som følger 
+
+e | l | v
+--- | --- | ---
 | 3 | 2 | 1 |
 
-Distribusjonen av bokstavene funnet i tallordet blir i ordnet rekkefølge: 1-2-3 og vi har et snøballtall. Snøball fordi om du ruller en snøball ned en bakke blir den jevnt større og større. 
-
-![](/assets/2014-12-28-snowball-numbers-11.png "Snøballtall")
+Distribusjonen av bokstavene funnet i tallordet blir i ordnet rekkefølge: 1-2-3 og vi har et snøballtall. 
 
 > *Tallord som ruller ned en bakke*
+
+![](/assets/2014-12-28-snowball-numbers-11.png "Snøballtall")
 
 Blogginnlegget jeg leste var inspirert av en journal skrevet av Eric Harshbarger og Mike Keith og har tittelen: [*Number Names With A Snowball Letter Distribution*](http://digitalcommons.butler.edu/wordways/vol45/iss4/10/)
 
