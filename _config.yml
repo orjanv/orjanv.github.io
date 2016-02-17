@@ -12,3 +12,5 @@ github_username:  orjanv
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions: [tables]
