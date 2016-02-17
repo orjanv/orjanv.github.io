@@ -23,6 +23,19 @@ e | l | v
 ---|---|---
 3 | 2 | 1
 
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+
 Distribusjonen av bokstavene funnet i tallordet blir i ordnet rekkefølge: 1-2-3 og vi har et snøballtall. 
 
 > Tallord som ruller ned en bakke
