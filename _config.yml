@@ -11,4 +11,4 @@ twitter_username: hoyd
 github_username:  orjanv
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
