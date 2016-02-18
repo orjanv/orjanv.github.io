@@ -21,7 +21,7 @@ Det var forfriskende å lese om at noen har sett på tallord og funnet ut at noe
 
 e | l | v
 ---|---|---
-3 | 2 | 1
+3 | 2 | 1{: style="color: red"}
 
 Distribusjonen av bokstavene funnet i tallordet blir i ordnet rekkefølge: 1-2-3 og vi har et snøballtall. 
 
