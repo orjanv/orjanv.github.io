@@ -19,9 +19,7 @@ For en god stund siden nå leste jeg [ett innlegg](http://www.futilitycloset.com
 
 Det var forfriskende å lese om at noen har sett på tallord og funnet ut at noen tall inneholder en stigende fordeling av bokstaver brukt i tallordet. For eksempel det norske tallet **11**. Grunntallet skrives **elleve** og distribusjonen blir som følger 
 
-e | l | v
----|---|---
-3 | 2 | 1{: style="color: red"}
+**e**: 3{: style="color: red"}, **l**: 2{: style="color: red"}, **v**: 1{: style="color: red"}
 
 Distribusjonen av bokstavene funnet i tallordet blir i ordnet rekkefølge: 1-2-3 og vi har et snøballtall. 
 
