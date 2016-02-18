@@ -13,9 +13,11 @@ Jeg liker tall og språk og når jeg kommer over skjulte ikke-hensiktsmessige me
 
 For en god stund siden nå leste jeg [ett innlegg](http://www.futilitycloset.com/2014/12/28/snowball-numbers/) på en blogg jeg følger. Der tok de opp noe de kalte *snøballtall*. Snøball fordi om du ruller en snøball ned en bakke blir den jevnt større og større. 
 
->> Snøballtallene. 
->> Skjulte tall i tallene.
->> Kan du finne de?
+> Snøballtallene. 
+
+> Skjulte tall i tallene.
+
+> Kan du finne de?
 
 Det var forfriskende å lese om at noen har sett på tallord og funnet ut at noen tall inneholder en stigende fordeling av bokstaver brukt i tallordet. For eksempel det norske tallet **11**. Grunntallet skrives **elleve** og distribusjonen blir som følger 
 
