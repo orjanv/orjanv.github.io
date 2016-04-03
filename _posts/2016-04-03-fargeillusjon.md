@@ -4,7 +4,7 @@ title: "Bevis at felt A og B har samme farge"
 date: 2016-04-03 10:44:00 
 thumbnail: /assets/illusion_cover.png
 category: illusjon
-tags: illusjon, gimp, optisk illusjon, bilde
+tags: illusjon gimp bilde
 ---
 
 Husker du denne optiske illusjonen?
@@ -21,3 +21,4 @@ Kilder:
 
 * *[Checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion)*
 * *[Optical illusion proved - Square A and B are the same color](https://www.youtube.com/watch?v=eDnLZa7RAWE)*
+
