@@ -9,7 +9,7 @@ tags: illusjon, gimp, optisk illusjon, bilde
 
 Husker du denne optiske illusjonen?
 
-![Checker shadow illusion](/assets/Grey_square_optical_illusion.png)
+![Checker shadow illusion]({{ site.url }}/assets/Grey_square_optical_illusion.png)
 
 Ved å bruke Gimp, har jeg her bevist at felt A og B har nøyaktig samme farge:
 
