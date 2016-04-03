@@ -2,7 +2,7 @@
 layout: post
 title: "Bevis at felt A og B har samme farge"
 date: 2016-04-03 10:44:00 
-thumbnail: /assets/Grey_square_optical_illusion.png
+thumbnail: /assets/illusion_cover.png
 category: illusjon
 tags: illusjon, gimp, optisk illusjon, bilde
 ---
