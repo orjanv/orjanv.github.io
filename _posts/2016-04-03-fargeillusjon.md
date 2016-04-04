@@ -13,7 +13,7 @@ Husker du denne optiske illusjonen?
 
 Ved å bruke Gimp, har jeg her bevist at felt A og B har nøyaktig samme farge:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eDnLZa7RAWE" frameborder="0" allowfullscreen></iframe
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eDnLZa7RAWE" frameborder="0" allowfullscreen></iframe>
 
 ***
 
