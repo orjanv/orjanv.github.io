@@ -11,8 +11,6 @@ Klikk på bildet for å bytte mellom 50-tallet og idag.
 
 <img id="myImage" onclick="changeImage()" src="{{ site.url }}/assets/kong_hans_gate_sett_sorover_fra_nummer_12_-_50-tallet.jpg" width="500">
 
-<p>Click the light bulb to turn on/off the light.</p>
-
 <script>
 function changeImage() {
     var image = document.getElementById('myImage');
