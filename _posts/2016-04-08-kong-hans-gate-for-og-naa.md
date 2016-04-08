@@ -14,7 +14,7 @@ Klikk på bildet for å bytte mellom 50-tallet og idag.
 <script>
 function changeImage() {
     var image = document.getElementById('myImage');
-    if (image.src.match("kong_hans")) {
+    if (image.src.match("2016")) {
         image.src = "{{ site.url }}/assets/kong_hans_gate_sett_sorover_fra_nummer_12_-_50-tallet.jpg";
     } else {
         image.src = "{{ site.url }}/assets/kong_hans_gate_sett_sorover_fra_nummer_12_-_2016.jpg";
