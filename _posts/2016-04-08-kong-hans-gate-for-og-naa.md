@@ -9,9 +9,14 @@ tags: gimp foto bilde historie andenes andøy
 
 Klikk på bildet for å bytte mellom 50-tallet og idag.
 
-<img id="myImage" onclick="changeImage()" src="{{ site.url }}/assets/kong_hans_gate_sett_sorover_fra_nummer_12_-_50-tallet.jpg" width="100%">
+<img id="myImage" onclick="changeImage(fade())" src="{{ site.url }}/assets/kong_hans_gate_sett_sorover_fra_nummer_12_-_50-tallet.jpg" width="100%">
 
 <script>
+function fade(el){
+	var elem = document.getElementById(el);
+	elem.style.transition = "opacity 0.5s linear 0s";
+	elem.style.opacity = 1;
+}
 function changeImage() {
     var image = document.getElementById('myImage');
     if (image.src.match("2016")) {
