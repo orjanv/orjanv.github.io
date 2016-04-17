@@ -21,6 +21,5 @@ tags: foto bilde dverberg andøy
 
 ![]({{ site.url }}/assets/IMG_20160416_144841.jpg)
 
-
 [Se bildene i høyere oppløsning på flickr](https://www.flickr.com/photos/hoyd/albums/72157667240309295/with/26450035356/)
 
