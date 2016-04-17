@@ -448,12 +448,3 @@ pre {
   .highlight .il {
     color: #099; }
 
-.front-photo {
-   padding: 64px 0 0 0;
-   border: 0px solid #fff;
-   outline: 1px solid #000;
-   margin: 1px;
-   width: 100%;
-   height: 150px;
-   display: block;
-}
