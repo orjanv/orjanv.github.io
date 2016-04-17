@@ -7,7 +7,6 @@ category: foto
 tags: foto bilde dverberg andøy
 ---
 
-
 ![]({{ site.url }}/assets/DSC_3728.jpg)
 
 ![]({{ site.url }}/assets/DSC_3742.jpg)
