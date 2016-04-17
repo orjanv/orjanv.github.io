@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Noen bilder fra Dverberg på Andøy"
-date: 2016-04-17 09:49:18 
+date: 2016-04-17 09:49:18
 thumbnail: /assets/DSC_3769.jpg
 category: foto
 tags: foto bilde dverberg andøy
