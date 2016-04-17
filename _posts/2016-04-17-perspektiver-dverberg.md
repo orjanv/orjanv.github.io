@@ -7,6 +7,8 @@ category: foto
 tags: foto bilde dverberg andøy
 ---
 
+Her er noen bilder fra rundt omkring på Dverberg, et lite tettsted på Andøy i Nordland fylke. 
+
 ![]({{ site.url }}/assets/DSC_3728.jpg)
 
 ![]({{ site.url }}/assets/DSC_3742.jpg)
