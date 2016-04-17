@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://orjanv.github.io" # the base hostname & protocol for your site
 twitter_username: hoyd
 github_username:  orjanv
+flickr_username: hoyd
 
 # Build settings
 markdown: kramdown
