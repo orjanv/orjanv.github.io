@@ -296,7 +296,7 @@ pre {
   .post-content h2 {
    color: #ff4411; 
    font-size: 42px; 
-/*   font-family: 'Signika', sans-serif; */
+   font-family: 'Signika', sans-serif;
    padding-bottom: 10px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
